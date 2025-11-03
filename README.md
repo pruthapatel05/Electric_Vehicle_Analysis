@@ -34,10 +34,6 @@ This project performs an in-depth analysis of electric vehicle (EV) data to expl
 - **Excel/CSV Data**: Data sources include various datasets for electric vehicle sales and attributes.
 - **Data Analysis**: Basic data aggregation and filtering performed to segment by vehicle make, model, type, and CAFV eligibility.
 
-## Technologies Used
-
-- **Tableau**: Used for data visualization and creating interactive dashboards.
-- **Excel/CSV Files**: The dataset was sourced in CSV format and imported into Tableau for analysis.
 
 ## Features
 
